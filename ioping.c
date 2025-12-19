@@ -728,7 +728,7 @@ void usage(FILE *output)
 			"\n"
 			" parameters:\n"
 			"      -a, -warmup <count>        ignore <count> first requests (1)\n"
-			"      -b, -burst <count>         make <count> requsts without delay (0)\n"
+			"      -b, -burst <count>         make <count> requests without delay (0)\n"
 			"      -c, -count <count>         stop after <count> requests\n"
 			"      -e, -entropy <seed>        seed for random number generator (0)\n"
 			"      -i, -interval <time>       interval between requests (1s)\n"
