@@ -1,8 +1,8 @@
 ioping
 ======
 
-A tool to monitor I/O latency in real time.
-It shows disk latency in the same way as ping shows network latency.
+a Tool to manage data, everything you need
+csv -> Elastic and neo4j and other
 
 Homepage: https://github.com/koct9i/ioping/
 (migrated from http://code.google.com/p/ioping/)
