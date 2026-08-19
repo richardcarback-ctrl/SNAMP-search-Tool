@@ -1,4 +1,4 @@
-ioping
+SNAMP
 ======
 
 a Tool to manage data, everything you need
